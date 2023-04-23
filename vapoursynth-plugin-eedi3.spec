@@ -5,7 +5,6 @@ Version:	1
 Release:	1
 License:	GPL v2+
 Group:		Libraries
-%define	gitref	acdeca22038583d73d420ccf76d0658f06cae3c0
 Source0:	https://github.com/vapoursynth/vs-eedi3-obsolete/archive/R%{version}/vs-eedi3-obsolete-R%{version}.tar.gz
 # Source0-md5:	47f4c1da0b3c4a6861934d399d972b39
 URL:		https://github.com/vapoursynth/vs-eedi3-obsolete
